@@ -1,0 +1,48 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   public/1733145608164.jpg
+#	new file:   public/favicon.ico
+#	new file:   public/images.png
+#	new file:   public/index.html
+#	new file:   public/logo192.png
+#	new file:   public/logo512.png
+#	new file:   public/manifest.json
+#	new file:   public/robots.txt
+#	new file:   public/sts3d.png
+#	new file:   public/sts3d_cover.jpg
+#	new file:   public/winch_1.jpg
+#	new file:   src/App.css
+#	new file:   src/App.js
+#	new file:   src/App.test.js
+#	new file:   src/Client/AddClient.js
+#	new file:   src/Client/EditClient.js
+#	new file:   src/Client/EditDebrochen.js
+#	new file:   src/Client/EditMarula.js
+#	new file:   src/Client/EditThorncliff.js
+#	new file:   src/Client/EditUnki.js
+#	new file:   src/Client/EditVista.js
+#	new file:   src/Client/ViewClient.js
+#	new file:   src/Client/ViewDebrochen.js
+#	new file:   src/Client/ViewMarula.js
+#	new file:   src/Client/ViewThorncliff.js
+#	new file:   src/Client/ViewUnki.js
+#	new file:   src/Client/ViewVista.js
+#	new file:   src/Layout/NavBar.js
+#	new file:   src/Pages/Home.js
+#	new file:   src/index.css
+#	new file:   src/index.js
+#	new file:   src/logo.svg
+#	new file:   src/reportWebVitals.js
+#	new file:   src/setupTests.js
+#
