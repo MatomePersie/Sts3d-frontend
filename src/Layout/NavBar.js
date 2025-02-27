@@ -6,7 +6,7 @@ export default function NavBar() {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-black">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/" >
+          <Link className="navbar-brand" to="/">
             Simulated Training Solutions 3D Simulators
           </Link>
           <button
@@ -23,6 +23,9 @@ export default function NavBar() {
           <Link className="btn btn-outline-light" to="/addClient">
             {" "}
             Add a site{" "}
+          </Link>
+          <Link className="btn btn-outline-light mx-2" to="/">
+            View Simulators
           </Link>
         </div>
       </nav>
